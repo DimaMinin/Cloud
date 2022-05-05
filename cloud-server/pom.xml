@@ -16,4 +16,12 @@
         <maven.compiler.target>17</maven.compiler.target>
     </properties>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.Minin.cloud</groupId>
+            <artifactId>cloud-core</artifactId>
+            <version>1</version>
+        </dependency>
+    </dependencies>
+
 </project>
