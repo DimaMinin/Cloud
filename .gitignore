@@ -1,1 +1,4 @@
 .idea
+cloud-server/target
+cloud-application/target
+
